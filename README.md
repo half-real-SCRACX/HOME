@@ -1,2 +1,2 @@
 # HOME
- A homescreen for your browser.
+ A better homescreen for your browser.
