@@ -5,6 +5,6 @@
     "version": "1.0",
     "default_locale": "en_https://developer.chrome.com/docs/extensions/reference/i18n/",
     "chrome_url_overrides" : {
-        "newtab": ".html"
+        "newtab": "home.html"
     }
   }
