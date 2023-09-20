@@ -11,10 +11,8 @@ body{
     background-color: rgb(221, 233, 244);
 
     display: grid;
-    grid-template-columns: 1fr repeat(2, 30px);
-    grid-template-rows: 1fr;
+    grid-template-columns: 1fr repeat(2, 40px);
     grid-column-gap: 10px;
-    grid-row-gap: 0px;
 }
 
 #search-box{
@@ -33,6 +31,8 @@ body{
     outline: none;
 
     transition: 0.3s;
+
+    text-overflow: ellipsis;
 }
 
 #search-box:hover{
@@ -43,4 +43,17 @@ body{
     background-color: rgb(235, 235, 235);
     border: none;
     outline: none;
+}
+
+.search-buttons{
+    display: inline;
+    margin: auto;
+    height: 34px;
+    padding: 2px;
+    background-color: white;
+    border-radius: 14px;
+}
+
+.search-buttons:hover{
+    background-color: rgb(245, 245, 245)
 }
