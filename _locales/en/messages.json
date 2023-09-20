@@ -1,0 +1,10 @@
+{
+    "appName": {
+      "message": "HOME",
+      "description": "The description of the extension, displayed in the web store."
+    },
+    "appDesc": {
+      "message": "A better homescreen for your browser",
+      "description": "The description of the extension, displayed in the web store."
+    }
+  }

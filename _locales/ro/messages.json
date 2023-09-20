@@ -1,0 +1,10 @@
+{
+    "appName": {
+      "message": "HOME",
+      "description": "The description of the extension, displayed in the web store."
+    },
+    "appDesc": {
+      "message": "Un ecran de start mai bun pentru browserul dvs",
+      "description": "The description of the extension, displayed in the web store."
+    }
+  }
