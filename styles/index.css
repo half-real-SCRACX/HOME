@@ -9,6 +9,12 @@ body{
     height: fit-content;
     padding: 3px;
     background-color: rgb(221, 233, 244);
+
+    display: grid;
+    grid-template-columns: 1fr repeat(2, 30px);
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 0px;
 }
 
 #search-box{
