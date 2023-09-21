@@ -3,7 +3,17 @@ body{
 }
 
 .searchbar-box{
-    margin: auto;
+    position: absolute;
+    
+    margin-top: auto;
+    margin-bottom: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+
     border-radius: 14px;
     width: 60%;
     height: fit-content;
