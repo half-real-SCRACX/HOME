@@ -1,8 +1,8 @@
 {
-    "appName": {
-      "message": "HOME"
-    },
-    "appDesc": {
-      "message": "Un ecran de start mai bun pentru browserul dvs"
-    }
-  }
+	"appName": {
+		"message": "HOME"
+	},
+	"appDesc": {
+		"message": "Un ecran de start mai bun pentru browserul dvs"
+	}
+}
