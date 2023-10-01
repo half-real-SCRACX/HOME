@@ -93,6 +93,7 @@ body {
 	width: 43px;
 	background-color: white;
 	border-radius: 14px;
+	border: 2px solid black;
 }
 
 .button:hover {
